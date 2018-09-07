@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\okio-1.14.0_f608d9fcde9a2bf207d3360b4ec9c1a3870411ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\39077dfcb20c2a6b57e84909c2bb99d3c13ca285\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_a088fc348977fab7625af174067b9a7c2b88e3d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_c6aba66ad433a424b40f18b9bc98d65d62474020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.10.0\7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e\okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\okhttp-3.10.0_142a2491db8bfd3e4267989352e721215312b308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\6d1f212ecfc6a3fbbc9fed8fe7822b8463c2778f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_bdc128cbbde1abea29d47cb9fd5e07abca603c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_aaeb7028293ebc9ee7caa0f15231862545e3e1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\4178106910ed9fcd59bab776aa27688cd9edb2bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_1fc0a446ef700eadecac0bda2f9697846ca5193a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\61cab635f75cd1b2ecfd9544060a2f4e186753e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_6e73fc3b7913c16e41e69ffe928003d5e28ba16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\a6a9323e09eb18f49b855be6208661ec563d648c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_20bf604199772d6bb41a315f336d6ac590939091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\e417c724da68cded9861b631efa7a62ff6553dca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_b1ed3917e8ee210fbdff912bf682d17e7e49ad8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_fc548d060e0cfcd583710f46003215becfedfe31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\2087d35c63019d6f632f7ea3f875eaf4041a20e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_3ffc1ee33079e564084ae2c4bf7c4f54850cef73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\9bcec5f6ca5dbdb436aad40c0960dc17b9b23845\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_ed88c992e49b4b285ae8d7aa6c15f13625bb7ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\60c389d73b7bcd17a8b4942968b6ac63a35f5f33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_8d2fe971ed279b92b161a46251523b97c313ed72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sun\.android\build-cache\26af4568c0626e7c16ee31f2879e3d39df75cd7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\sun\Desktop\PDF_Preview-master\app\build\intermediates\pre-dexed\debug\classes_47b58aa2f34fe412054c72d86bf9643e3db2e8e7.jar" />
+    </item>
+
+</items>
